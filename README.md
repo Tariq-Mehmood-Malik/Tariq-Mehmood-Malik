@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Tariq-Mehmood-Malik
-- 👀 I’m interested in Open Source
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on Devops Projects
-- 📫 How to reach me : tariqmalik323@gmail.com
+👋 Hi! I'm `Tariq Mehmood`, a **DevOps student** passionate about automating processes, enhancing system reliability, and learning about the world of cloud computing.
 
-<!---
-Tariq-Mehmood-Malik/Tariq-Mehmood-Malik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 **Currently learning**:
+- Building and managing CI/CD pipelines with **Jenkins**, **GitHub Actions**, and **GitLab CI**
+- Exploring **Docker** for containerization and **Kubernetes** for container orchestration
+- Getting hands-on experience with **AWS** cloud services
+
+🌱 **Learning & Improving**:
+- Gaining knowledge in **Infrastructure as Code** (IaC) with **Terraform** and **Ansible**
+- Exploring **monitoring and logging** with **Prometheus**, **Grafana**, and **ELK Stack**
+- Working on automating deployment processes and improving system scalability
+
+💬 **Ask me about**:
+- Setting up Docker containers
+- Basic cloud configurations with AWS
+- DevOps principles and best practices
+- How to get started with **Kubernetes**
+
+📫 **How to reach me**:
+- Linkedin: [Tariq-Mehmood-1307](https://www.linkedin.com/in/tariq-mehmood-1307/)
+- Email: tariqmalik323@gmail.com
+
+⚡ **Fun fact**: When I’m not learning DevOps, I love tinkering with new tech!
+
+---
