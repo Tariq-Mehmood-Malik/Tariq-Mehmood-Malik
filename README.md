@@ -16,7 +16,6 @@
 - How to get started with **Kubernetes**
 
 📫 **How to reach me**:
-- Linkedin: [Tariq-Mehmood-1307](https://www.linkedin.com/in/tariq-mehmood-1307/)
 - Email: thetariqmehmood32@gmail.com
 
 ⚡ **Fun fact**: When I’m not learning DevOps, I love tinkering with new tech!
