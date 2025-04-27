@@ -1,7 +1,7 @@
-👋 Hi! I'm `Tariq Mehmood`, a **DevOps student** passionate about automating processes, enhancing system reliability, and learning about the world of cloud computing.
+👋 Hi! I'm `Tariq Mehmood`, a **DevOps & Open-Source Learner** passionate about automating processes, enhancing system reliability, and learning about the world of cloud computing.
 
 🔭 **Currently learning**:
-- Exploring **Docker** for containerization and **Kubernetes** for container orchestration
+- Exploring **Jenkins** for CI/CD and **Kubernetes** for container orchestration
 - Getting hands-on experience with **AWS** cloud services
 
 🌱 **Learning & Improving**:
