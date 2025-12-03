@@ -15,6 +15,6 @@
 📫 **How to reach me**:
 - Email: thetariqmehmood32@gmail.com
 
-⚡ **Fun fact**: When I’m not learning, I love tinkering with new tech!
+⚡ **Fun fact**: When I’m not learning, I love tinkering in my Home-Lab!
 
 ---
